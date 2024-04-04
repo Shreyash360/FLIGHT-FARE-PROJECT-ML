@@ -1,3 +1,6 @@
+![Screenshot 2024-04-04 201058](https://github.com/Shreyash360/FLIGHT-FARE-PROJECT-ML/assets/141824813/cb9bc7bd-5566-478c-8b8c-a58360fd1f99)
+
+
 Executed a comprehensive Flight Fare Prediction project using advanced Machine Learning techniques
 - Aimed to enhance cost-effectiveness and provide travelers with informed decision-making support
 - Stages included meticulous data collection, thorough preprocessing, and implementation of a predictive model
